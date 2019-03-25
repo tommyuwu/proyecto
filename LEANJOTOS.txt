@@ -1,0 +1,12 @@
+Comandos básicos antes de subir o bajar:
+git add .
+git commit -m "prueba"
+
+PARA SUBIR:
+git push origin master
+
+PARA BAJAR:
+git pull origin master
+
+
+the game
